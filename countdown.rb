@@ -8,3 +8,9 @@ def countdown(integer)
   end
   "HAPPY NEW YEAR!"
 end
+
+def countdown_with_sleep(integer)
+  countdown_with_sleep = 5
+  while countdown_with_sleep < 5
+    puts
+end
