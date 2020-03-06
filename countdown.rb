@@ -12,5 +12,7 @@ end
 def countdown_with_sleep(integer)
   countdown_with_sleep = 5
   while countdown_with_sleep < 5
-    puts
+    puts "snore"
+    sleep(1.sec)
+    
 end
